@@ -30,7 +30,7 @@ bookdown::gitbook:
     toc:
       collapse: subsection
       before: |
-        <li><a href="./">Loss Data Analytics Ed 2</a></li>
+        <li><a href="./">Probability </a></li>
       after: |
         <li><a href="https://github.com/openprobabilitytext/introprob" target="blank">Loss Data Analytics on GitHub</a></li>
   toc_depth: 3                 
