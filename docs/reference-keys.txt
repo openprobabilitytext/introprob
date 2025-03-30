@@ -1,2 +1,2 @@
 counting-combinations-and-permutations
-a-caucus-race-and-a-long-tale
+basic-probability

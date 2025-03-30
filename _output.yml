@@ -32,7 +32,7 @@ bookdown::gitbook:
       before: |
         <li><a href="./">Probability </a></li>
       after: |
-        <li><a href="https://github.com/openprobabilitytext/introprob" target="blank">Introduction to Probability on GitHub</a></li>
+        <li><a href="https://github.com/openprobabilitytext/introprob/" target="blank">Introduction to Probability on GitHub</a></li>
   toc_depth: 3                 
   edit: https://github.com/rstudio/bookdown-demo/edit/master/%s
   download: null
