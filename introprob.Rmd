@@ -1,0 +1,26 @@
+--- 
+title: "Introduction to Probabiity"
+author: "Madhuka and Rajinda"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+---
+--- 
+title: "Introduction to Probabiity"
+author: "Madhuka and Rajinda"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+---
+
+# Preface {-}
+This book is an open text. 
+
+<!--chapter:end:index.Rmd-->
+
+# Counting, Combinations, and Permutations 
+
+<!--chapter:end:02-counting.Rmd-->
+
+# Basic Probability
+
+<!--chapter:end:03-basics.Rmd-->
+
