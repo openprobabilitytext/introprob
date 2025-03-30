@@ -1,7 +1,7 @@
 bookdown::pdf_document2:
   includes:
     in_header: preamble.tex
-    before_body: coverpage.tex
+    #before_body: coverpage.tex
   toc: TRUE
   toc_depth: '3'
   citation_package: natbib
