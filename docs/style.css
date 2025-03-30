@@ -30,15 +30,15 @@
 }
 
 h1, h2, h3 {
-  color: #3b556e;
+  color: #044142;
 }
 
 a {
-color: #3b556e;
+color: #044142;
 }
 
 dt {
-  color: #3b556e;
+  color: #044142;
 }
 
 dd {
@@ -70,7 +70,7 @@ dd {
 }
 
 .book .book-body .page-wrapper .page-inner section.normal th {
-  background: #3b556e;
+  background: #044142;
   font-weight: bold;
   color: white;
   text-align: center;
@@ -97,7 +97,7 @@ ol {
 }
 
 .book .book-summary {
-  background-color: #3b556e;
+  background-color: #044142;
 }
 
 .book .book-summary ul.summary li a {
@@ -111,7 +111,7 @@ ol {
 
 .book .book-summary ul.summary li a:hover {
   background-color: #ffffff;
-  color: #3b556e;
+  color: #044142;
   font-weight: bold;
   border-radius:10px;
 }
@@ -130,7 +130,7 @@ a.tooltip:hover span {
        position:absolute;
        
        color:#ffffff;
-       background:#3b556e;
+       background:#044142;
 }
 
 .twoC {width: 100%}
