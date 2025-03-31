@@ -1,3 +1,18 @@
+--- 
+title: "Introduction to Probability"
+author: "Madhuka and Rajinda"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+---
+
+# Preface {-}
+
+Placeholder
+
+
+
+<!--chapter:end:index.Rmd-->
+
 # Fundamentals of Probability and its Axioms
 
 ## Combinations and Permutations
@@ -24,3 +39,25 @@ From the previous example, it is clear that counting the number of elements of s
 
 We will begin by stating the following crucial theorem.
  
+
+<!--chapter:end:02-counting.Rmd-->
+
+# Basic Probability
+
+<!--chapter:end:03-basics.Rmd-->
+
+
+
+
+<!--chapter:end:Glossary.Rmd-->
+
+
+
+
+<!--chapter:end:Packages.Rmd-->
+
+
+
+
+<!--chapter:end:PdfOutput.Rmd-->
+
