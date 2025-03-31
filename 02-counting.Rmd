@@ -5,5 +5,3 @@ Counting plays a very important role in probability. In probability, we often de
 
 **Example 1.1.**
 Suppose a fair coin is flipped twice.What is the probability of flipping at least one head?
-
-***
