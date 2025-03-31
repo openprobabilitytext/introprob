@@ -1,21 +1,14 @@
 --- 
-title: " Introduction to Probability <br> \\newline First Edition"
+title: "Introduction to Probability"
 author: "Madhuka and Rajinda"
+date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
-output:
-  bookdown::gitbook
-documentclass: krantzNoCorner
-classoption: krantz2
-colorlinks: yes
-fontsize: 12pt
-bibliography: ["referece2025.bib"]
-biblio-style: econPeriod
-link-citations: yes
-github-repo: https://github.com/openprobabilitytext/introprob/
+---
+
+# Preface {-}
 description: "Introduction to Probability is a freely available textbook for MATH350 students.
   -  This version contains variety of examples to learn the probability concepts in your own phase.
   -  The book can be downloaded as a pdf."
----
 
 
 
@@ -96,9 +89,3 @@ HideProofTheory <- function(arg1,arg2){
 
 
 ```
-
-
-# Preface {-}
-
-<p style="text-align:right;">
-*Date: `r format(Sys.Date(), "%d %B %Y")`*</p>

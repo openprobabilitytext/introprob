@@ -6,7 +6,7 @@ Counting plays a very important role in probability. In probability, we often de
 **Example 1.1.**
 Suppose a fair coin is flipped twice.What is the probability of flipping at least one head?
 
-**Solution**
+**Solution:**
 The sample space of this experiment can expressed as $S=\{HH,HT,TH,TT\}$. Now, consider the event:
 $$A=\{\text{At least one outcome is a head}\}$$
 Notice that $A\subset S$ ($A$ is a subset of $S$). Since $A=\{HH,HT,TH\},$ we can find the probability as follows:

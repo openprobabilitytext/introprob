@@ -1,11 +1,9 @@
 % Options for packages loaded elsewhere
 \PassOptionsToPackage{unicode}{hyperref}
 \PassOptionsToPackage{hyphens}{url}
-\PassOptionsToPackage{dvipsnames,svgnames,x11names}{xcolor}
 %
 \documentclass[
-  12pt,
-  krantz2]{krantzNoCorner}
+]{book}
 \usepackage{amsmath,amssymb}
 \usepackage{iftex}
 \ifPDFTeX
@@ -138,29 +136,24 @@
   \usepackage{selnolig}  % disable illegal ligatures
 \fi
 \usepackage[]{natbib}
-\bibliographystyle{econPeriod}
+\bibliographystyle{plainnat}
 \IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
 \IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
 \urlstyle{same}
 \hypersetup{
-  pdftitle={Introduction to Probability   First Edition},
+  pdftitle={Introduction to Probability},
   pdfauthor={Madhuka and Rajinda},
-  colorlinks=true,
-  linkcolor={Maroon},
-  filecolor={Maroon},
-  citecolor={Blue},
-  urlcolor={Blue},
+  hidelinks,
   pdfcreator={LaTeX via pandoc}}
 
-\title{Introduction to Probability \newline First Edition}
+\title{Introduction to Probability}
 \author{Madhuka and Rajinda}
-\date{}
+\date{2025-03-31}
 
 \begin{document}
 \maketitle
 
 {
-\hypersetup{linkcolor=}
 \setcounter{tocdepth}{2}
 \tableofcontents
 }
@@ -168,7 +161,9 @@
 \chapter*{Preface}\label{preface}}
 
 
-\emph{Date: 31 March 2025}
+description: ``Introduction to Probability is a freely available textbook for MATH350 students.
+- This version contains variety of examples to learn the probability concepts in your own phase.
+- The book can be downloaded as a pdf.''
 
 \hypertarget{fundamentals-of-probability-and-its-axioms}{%
 \chapter{Fundamentals of Probability and Its Axioms}\label{fundamentals-of-probability-and-its-axioms}}
@@ -189,7 +184,5 @@ Notice that \(A\subset S\) (\(A\) is a subset of \(S\)). Since \(A=\{HH,HT,TH\},
 
 \hypertarget{basic-probability}{%
 \chapter{Basic Probability}\label{basic-probability}}
-
-  \bibliography{referece2025.bib}
 
 \end{document}
