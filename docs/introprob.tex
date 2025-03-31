@@ -1,9 +1,11 @@
 % Options for packages loaded elsewhere
 \PassOptionsToPackage{unicode}{hyperref}
 \PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames,x11names}{xcolor}
 %
 \documentclass[
-]{book}
+  12pt,
+  krantz2]{krantzNoCorner}
 \usepackage{amsmath,amssymb}
 \usepackage{iftex}
 \ifPDFTeX
@@ -136,24 +138,28 @@
   \usepackage{selnolig}  % disable illegal ligatures
 \fi
 \usepackage[]{natbib}
-\bibliographystyle{plainnat}
+\bibliographystyle{econPeriod}
 \IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
 \IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
 \urlstyle{same}
 \hypersetup{
-  pdftitle={Introduction to Probabiity},
-  pdfauthor={Madhuka and Rajinda},
-  hidelinks,
+  pdftitle={Introduction to Probability   First Edition},
+  colorlinks=true,
+  linkcolor={Maroon},
+  filecolor={Maroon},
+  citecolor={Blue},
+  urlcolor={Blue},
   pdfcreator={LaTeX via pandoc}}
 
-\title{Introduction to Probabiity}
-\author{Madhuka and Rajinda}
-\date{2025-03-30}
+\title{Introduction to Probability \newline First Edition}
+\author{}
+\date{\vspace{-2.5em}}
 
 \begin{document}
 \maketitle
 
 {
+\hypersetup{linkcolor=}
 \setcounter{tocdepth}{2}
 \tableofcontents
 }
@@ -161,7 +167,7 @@
 \chapter*{Preface}\label{preface}}
 
 
-This book is an open text.
+\emph{Date: 30 March 2025}
 
 \hypertarget{fundamentals-of-probability-and-its-axioms}{%
 \chapter{Fundamentals of Probability and Its Axioms}\label{fundamentals-of-probability-and-its-axioms}}
@@ -174,7 +180,19 @@ Counting plays a very important role in probability. In probability, we often de
 \textbf{Example 1.1.}
 Suppose a fair coin is flipped twice.What is the probability of flipping at least one head?
 
+\begin{graybox}\scalefont{0.90}
+    \textbf{Example Solution.}
+
+
+The sample space of this experiment can expressed as $S=\{HH,HT,TH,TT\}$. Now, consider the event:
+$$A=\{\text{At least one outcome is a head}\}$$
+Notice that $A\subset S$ ($A$ is a subset of $S$). Since $A=\{HH,HT,TH\},$ we can find the probability as follows:
+$$P(A)= \frac{\#\text{elements in A}}{\#\text{elements in S}}=\frac{3}{4}.$$
+\end{graybox}
+
 \hypertarget{basic-probability}{%
 \chapter{Basic Probability}\label{basic-probability}}
+
+  \bibliography{referece2025.bib}
 
 \end{document}
