@@ -545,15 +545,17 @@ window.onload = function() {
 <h1><span class="header-section-number">Chapter 1</span> Fundamentals of Probability and Its Axioms<a href="fundamentals-of-probability-and-its-axioms.html#fundamentals-of-probability-and-its-axioms" class="anchor-section" aria-label="Anchor link to header"></a></h1>
 <div id="combinations-and-permutations" class="section level2 hasAnchor" number="1.1">
 <h2><span class="header-section-number">1.1</span> Combinations and Permutations<a href="fundamentals-of-probability-and-its-axioms.html#combinations-and-permutations" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<p>Counting plays a very important role in probability. In probability, we often deal with sets, and counting methods such as combinations and permutations help us find the number of elements in a set. Specifically, in probability, we deal with a set called the <strong>sample space</strong> which is the set of all possible outcomes of some random experiment and <strong>events</strong>, which are subsets of the sample space. Typically, the sample space is denoted by <span class="math inline">\(S\)</span> or <span class="math inline">\(\Omega.\)</span> Consider the following example:</p>
-<p><strong>Example 1.1.</strong>
+<p>Counting plays a very important role in probability. In probability, we often deal with sets, and counting methods such as combinations and permutations help us find the number of elements in a set. Specifically, in probability, we deal with a set called the <strong>sample space</strong> which is the set of all possible outcomes of some random experiment and <strong>events</strong>, which are subsets of the sample space. Typically, the sample space is denoted by <span class="math inline">\(S\)</span> or <span class="math inline">\(\Omega.\)</span> Consider the following example:
+*<strong>
+</strong>Example 1.1.**
 Suppose a fair coin is flipped twice.What is the probability of flipping at least one head?</p>
 <p><strong>Solution:</strong>
 The sample space of this experiment can expressed as <span class="math inline">\(S=\{HH,HT,TH,TT\}\)</span>. Now, consider the event:
 <span class="math display">\[A=\{\text{At least one outcome is a head}\}\]</span>
 Notice that <span class="math inline">\(A\subset S\)</span> (<span class="math inline">\(A\)</span> is a subset of <span class="math inline">\(S\)</span>). Since <span class="math inline">\(A=\{HH,HT,TH\},\)</span> we can find the probability as follows:
-<span class="math display">\[P(A)= \frac{\#\text{elements in A}}{\#\text{elements in S}}=\frac{3}{4}.\]</span></p>
-<p>The above method of computing the probability of an event, while very useful, is not always suitable for the following reasons:
+<span class="math display">\[P(A)= \frac{\#\text{elements in A}}{\#\text{elements in S}}=\frac{3}{4}.\]</span>
+***
+The above method of computing the probability of an event, while very useful, is not always suitable for the following reasons:
 1. Each outcome has to be equally likely.
 2. The sets must be countable.</p>
 <p>From the previous example, it is clear that counting the number of elements of sets is very important when dealing with discrete sets. We will do this more efficiently by utilizing tools from combinations and permutations.</p>
