@@ -1,7 +1,6 @@
 --- 
 title: " Introduction to Probability <br> \\newline First Edition"
-author: ""
-# Include title and author for HTML/Gitbook output
+author: "Madhuka and Rajinda"
 site: bookdown::bookdown_site
 output:
   bookdown::gitbook

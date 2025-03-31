@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.30)  31 MAR 2025 00:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.30)  31 MAR 2025 00:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -691,32 +691,32 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO)
 \BKM@id=\count335
 ))
-Package hyperref Info: Option `colorlinks' set `true' on input line 152.
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 158.
+Package hyperref Info: Option `colorlinks' set `true' on input line 153.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 159.
 (c:/Users/msgamage/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (./introprob.aux)
 \openout1 = `introprob.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 158.
-LaTeX Font Info:    ... okay on input line 158.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 158.
-LaTeX Font Info:    ... okay on input line 158.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 158.
-LaTeX Font Info:    ... okay on input line 158.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 158.
-LaTeX Font Info:    ... okay on input line 158.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 158.
-LaTeX Font Info:    ... okay on input line 158.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 158.
-LaTeX Font Info:    ... okay on input line 158.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 158.
-LaTeX Font Info:    ... okay on input line 158.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 158.
-LaTeX Font Info:    ... okay on input line 158.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 158.
-LaTeX Font Info:    ... okay on input line 158.
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 158.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 159.
+LaTeX Font Info:    ... okay on input line 159.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 159.
+LaTeX Font Info:    ... okay on input line 159.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 159.
+LaTeX Font Info:    ... okay on input line 159.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 159.
+LaTeX Font Info:    ... okay on input line 159.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 159.
+LaTeX Font Info:    ... okay on input line 159.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 159.
+LaTeX Font Info:    ... okay on input line 159.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 159.
+LaTeX Font Info:    ... okay on input line 159.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 159.
+LaTeX Font Info:    ... okay on input line 159.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 159.
+LaTeX Font Info:    ... okay on input line 159.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 159.
 (c:/Users/msgamage/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (c:/Users/msgamage/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
@@ -737,7 +737,7 @@ Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 ))
-Package hyperref Info: Link coloring ON on input line 158.
+Package hyperref Info: Link coloring ON on input line 159.
 
 
 
@@ -822,43 +822,43 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 [2
 
 ]
-Underfull \vbox (badness 10000) detected at line 164
+Underfull \vbox (badness 10000) detected at line 165
  []
 
 
-Overfull \hbox (395.75pt too wide) detected at line 164
+Overfull \hbox (395.75pt too wide) detected at line 165
 []
  []
 
 
-Underfull \vbox (badness 10000) detected at line 164
+Underfull \vbox (badness 10000) detected at line 165
  []
 
 
-Overfull \hbox (395.75pt too wide) detected at line 164
+Overfull \hbox (395.75pt too wide) detected at line 165
 []
  []
 
 
-Underfull \vbox (badness 10000) detected at line 164
+Underfull \vbox (badness 10000) detected at line 165
  []
 
 
-Overfull \hbox (395.75pt too wide) detected at line 164
+Overfull \hbox (395.75pt too wide) detected at line 165
 []
  []
 
 
-Underfull \vbox (badness 10000) detected at line 164
+Underfull \vbox (badness 10000) detected at line 165
  []
 
 
-Overfull \hbox (395.75pt too wide) detected at line 164
+Overfull \hbox (395.75pt too wide) detected at line 165
 []
  []
 
 
-Underfull \hbox (badness 10000) detected at line 164
+Underfull \hbox (badness 10000) detected at line 165
 []
  []
 
@@ -945,43 +945,43 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 [4
 
 ]
-Underfull \vbox (badness 10000) detected at line 167
+Underfull \vbox (badness 10000) detected at line 168
  []
 
 
-Overfull \hbox (395.75pt too wide) detected at line 167
+Overfull \hbox (395.75pt too wide) detected at line 168
 []
  []
 
 
-Underfull \vbox (badness 10000) detected at line 167
+Underfull \vbox (badness 10000) detected at line 168
  []
 
 
-Overfull \hbox (395.75pt too wide) detected at line 167
+Overfull \hbox (395.75pt too wide) detected at line 168
 []
  []
 
 
-Underfull \vbox (badness 10000) detected at line 167
+Underfull \vbox (badness 10000) detected at line 168
  []
 
 
-Overfull \hbox (395.75pt too wide) detected at line 167
+Overfull \hbox (395.75pt too wide) detected at line 168
 []
  []
 
 
-Underfull \vbox (badness 10000) detected at line 167
+Underfull \vbox (badness 10000) detected at line 168
  []
 
 
-Overfull \hbox (395.75pt too wide) detected at line 167
+Overfull \hbox (395.75pt too wide) detected at line 168
 []
  []
 
 
-Underfull \hbox (badness 10000) detected at line 167
+Underfull \hbox (badness 10000) detected at line 168
 []
  []
 
@@ -1039,50 +1039,42 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 [6
 
 ]
-Underfull \vbox (badness 10000) detected at line 173
+Underfull \vbox (badness 10000) detected at line 174
  []
 
 
-Overfull \hbox (395.75pt too wide) detected at line 173
+Overfull \hbox (395.75pt too wide) detected at line 174
 []
  []
 
 
-Underfull \vbox (badness 10000) detected at line 173
+Underfull \vbox (badness 10000) detected at line 174
  []
 
 
-Overfull \hbox (395.75pt too wide) detected at line 173
+Overfull \hbox (395.75pt too wide) detected at line 174
 []
  []
 
 
-Underfull \vbox (badness 10000) detected at line 173
+Underfull \vbox (badness 10000) detected at line 174
  []
 
 
-Overfull \hbox (395.75pt too wide) detected at line 173
+Overfull \hbox (395.75pt too wide) detected at line 174
 []
  []
 
 
-Underfull \vbox (badness 10000) detected at line 173
+Underfull \vbox (badness 10000) detected at line 174
  []
 
 
-Overfull \hbox (395.75pt too wide) detected at line 173
+Overfull \hbox (395.75pt too wide) detected at line 174
 []
  []
 
 Chapter 1.
-Package mdframed Info: mdframed works in twoside mode on input line 183.
-LaTeX Font Info:    Calculating math sizes for size <10.79993> on input line 184.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.79993> on input line 184.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7.5599> on input line 184.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5.39996> on input line 184.
 
 
 
@@ -1191,18 +1183,18 @@ L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 17009 strings out of 475170
- 281714 string characters out of 5763937
- 721645 words of memory out of 5000000
- 39681 multiletter control sequences out of 15000+600000
- 638157 words of font info for 87 fonts, out of 8000000 for 9000
+ 16965 strings out of 475170
+ 280997 string characters out of 5763937
+ 720839 words of memory out of 5000000
+ 39646 multiletter control sequences out of 15000+600000
+ 614167 words of font info for 68 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  79i,7n,93p,573b,463s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/Users/msgamage/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb><c:/Users/msgamage/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/Users/msgamage/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbxo10.pfb><c:/Users/msgamage/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi10.pfb><c:/Users/msgamage/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi12.pfb><c:/Users/msgamage/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/Users/msgamage/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/Users/msgamage/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri12.pfb><c:/Users/msgamage/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmro17.pfb><c:/Users/msgamage/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
-Output written on introprob.pdf (9 pages, 199805 bytes).
+<c:/Users/msgamage/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/Users/msgamage/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbxo10.pfb><c:/Users/msgamage/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi12.pfb><c:/Users/msgamage/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/Users/msgamage/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/Users/msgamage/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb><c:/Users/msgamage/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri12.pfb><c:/Users/msgamage/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmro17.pfb><c:/Users/msgamage/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
+Output written on introprob.pdf (9 pages, 182347 bytes).
 PDF statistics:
- 134 PDF objects out of 1000 (max. 8388607)
- 100 compressed objects within 1 object stream
+ 126 PDF objects out of 1000 (max. 8388607)
+ 95 compressed objects within 1 object stream
  18 named destinations out of 1000 (max. 500000)
  33 words of extra memory for PDF output out of 10000 (max. 10000000)
 
