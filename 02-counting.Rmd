@@ -9,10 +9,7 @@ Suppose a fair coin is flipped twice.What is the probability of flipping at leas
 
 `r HideExample('Example 1.1.', 'Show Example Solution')`
 
-`r SolnBegin()`
-
-
-The sample space of this experiment can expressed as $S=\{HH,HT,TH,TT\}$. Now, consider the event:
+`r SolnBegin()` The sample space of this experiment can expressed as $S=\{HH,HT,TH,TT\}$. Now, consider the event:
 $$A=\{\text{At least one outcome is a head}\}$$
 Notice that $A\subset S$ ($A$ is a subset of $S$). Since $A=\{HH,HT,TH\},$ we can find the probability as follows:
 $$P(A)= \frac{\#\text{elements in A}}{\#\text{elements in S}}=\frac{3}{4}.$$
