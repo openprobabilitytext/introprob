@@ -11,7 +11,7 @@ fontsize: 12pt
 bibliography: ["referece2025.bib"]
 biblio-style: econPeriod
 link-citations: yes
-github-repo: https://github.com/openprobabilitytext/introprob
+github-repo: https://github.com/openprobabilitytext/introprob/
 description: "Introduction to Probability is a freely available textbook for MATH350 students.
   -  This version contains variety of examples to learn the probability concepts in your own phase.
   -  The book can be downloaded as a pdf."
