@@ -26,8 +26,5 @@ We will begin by stating the following crucial theorem.
 **Theorem 1.1: The Fundamental Principle of Counting**
 
 Consider $k$ experiments. Let $n_i$ denote the number of possible outcomes of the $i$th experiment where $i=1,2,\dots,k.$ Then the total of number of possible outcomes is
-\begin{equation} 
-n_1\times n_2\times\cdots\times n_k 
-(\#eq:Ftc)
-\end{equation}
+$$n_1\times n_2\times\cdots\times n_k$$
 
