@@ -1,4 +1,0 @@
-fundamentals-of-probability-and-its-axioms
-combinations-and-permutations
-permutations
-basic-probability
