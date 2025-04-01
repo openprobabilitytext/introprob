@@ -23,8 +23,6 @@ From the previous example, it is clear that counting the number of elements of s
 
 We will begin by stating the following crucial theorem.
 
-<<<<<<< HEAD
-=======
 **Theorem 1.1: The Fundamental Principle of Counting**
 
 Consider $k$ experiments. Let $n_i$ denote the number of possible outcomes of the $i$th experiment where $i=1,2,\dots,k.$ Then the total of number of possible outcomes is
@@ -32,4 +30,4 @@ Consider $k$ experiments. Let $n_i$ denote the number of possible outcomes of th
 n_1\times n_2\times\cdots\times n_k 
 (\#eq:Ftc)
 \end{equation}
->>>>>>> 543bfe9982449ac749a63d9bf496d4969217160d
+
